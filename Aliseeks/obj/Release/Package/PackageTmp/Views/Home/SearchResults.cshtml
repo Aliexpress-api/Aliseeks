@@ -1,0 +1,94 @@
+﻿@model Aliseeks.Models.SearchModel
+
+@{
+    ViewBag.Title = "SearchResults";
+}
+
+@Html.Partial("SearchBar", Model.Criteria)
+<br />
+
+@foreach (Aliseeks.Domain.Item item in Model.Items)
+{
+    <div class="row row-centered">
+        <div class="col-sm-12 col-md-10 item-box col-centered clearfix padding-fix">
+            <div class="col-md-2 item-image-container">
+                <img class="img-responsive item-image" src="@item.ImageURL" alt="@item.Name" />
+            </div>
+
+            <div class="col-md-4 item-info">
+                <h4 class="item-link">
+                    <a class="item-link" href="@item.Link">
+                        @item.Name
+                    </a>
+                </h4>
+                <p class="mobile-gone standard-text">
+                    <strong>@item.StoreName</strong>
+                </p>
+                <p class="mobile-gone">
+                    <span class="small-text">@item.Feedback</span> |
+                    <span class="small-text">@item.Orders</span>
+                </p>
+            </div>
+            <div class="col-md-3 item-info-more">
+                <p>
+                    <span class="item-price">@item.Price</span>
+                    <span class="small-text"> / @item.Unit</span>
+                </p>
+                @if (@item.FreeShipping)
+                {
+                    <p class="label label-success">Free Shipping!</p>
+                }
+                @if (@item.MobileOnly != "")
+                {
+                    <p class="label label-danger">@item.MobileOnly</p>
+                }
+            </div>
+        </div>
+    </div>
+}
+
+<div class="btn-group page-group">
+    <ul class="pagination">
+        @foreach (int pageNum in Model.Criteria.GetPageNumbers())
+        {
+            if (pageNum == Model.Criteria.Page)
+            {
+                <li class="active">
+                    <a href=@Url.Action("SearchResults", new { page = pageNum })>@pageNum</a>
+                </li>
+            }
+            else
+            {
+                <li>
+                    <a href=@Url.Action("SearchResults", new { page = pageNum })>@pageNum</a>
+                </li>
+            }
+        }
+    </ul>
+</div>
+
+<div id="back-to-btm" class="btn-back-to-top row-centered">
+    <div class="glyphicon glyphicon-chevron-down btn-back-to-top-arrow"></div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#searchform .row-centered").addClass("col-md-offset-1");
+        $("#searchform .row-centered").removeClass("row-centered");
+
+        $("#back-to-btm").click(function () {
+            $("html,body").animate({
+                scrollTop: document.body.scrollHeight
+            }, 1000);
+        });
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > document.body.scrollHeight - screen.height * 1.5) {
+                $("#back-to-btm").fadeOut();
+            }
+            else {
+                $("#back-to-btm").fadeIn();
+            }
+        });
+    });
+</script>

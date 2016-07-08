@@ -1,0 +1,241 @@
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\csc.exe
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\vbc.exe
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Aliseeks.dll.config
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Aliseeks.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Aliseeks.pdb
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Helpers.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Mvc.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Razor.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Razor.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Helpers.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\System.Web.Mvc.xml
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\obj\Debug\Aliseeks.csprojResolveAssemblyReference.cache
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\obj\Debug\Aliseeks.dll
+c:\users\alex bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\obj\Debug\Aliseeks.pdb
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.dll
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.Web.Common.dll
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.dll
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\WebActivatorEx.dll
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.xml
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.Web.Common.xml
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.xml
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\HtmlAgilityPack.dll
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\HtmlAgilityPack.pdb
+C:\Users\Alex Bello\documents\visual studio 2015\Projects\Aliseeks\Aliseeks\bin\HtmlAgilityPack.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\csc.exe
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\vbc.exe
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll.config
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.pdb
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\WebActivatorEx.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.pdb
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.xml
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.csprojResolveAssemblyReference.cache
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.dll
+C:\Users\abell_000\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.pdb
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\csc.exe
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\vbc.exe
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll.config
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.pdb
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\WebActivatorEx.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.pdb
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.xml
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.csprojResolveAssemblyReference.cache
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.pdb
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\csc.exe
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Collections.Immutable.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\System.Reflection.Metadata.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\vbc.exe
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe.config
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll.config
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Aliseeks.pdb
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.Web.Infrastructure.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\WebActivatorEx.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.pdb
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\HtmlAgilityPack.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Common.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Razor.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Helpers.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Mvc.xml
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.csprojResolveAssemblyReference.cache
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\obj\Debug\Aliseeks.pdb
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\MySql.Data.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.ApplicationServices.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.DynamicData.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Entity.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Extensions.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Services.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Xml.dll
+E:\Alex Bello\New Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Xml.Linq.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.ApplicationServices.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.DynamicData.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Entity.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Extensions.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Web.Services.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Xml.dll
+C:\Users\Alex Bello\Google Drive\Documents\Visual Studios\Aliseeks\Aliseeks\bin\System.Xml.Linq.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\csc.exe
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\vbc.exe
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Aliseeks.dll.config
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Aliseeks.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Aliseeks.pdb
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\HtmlAgilityPack.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\MySql.Data.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.Web.Common.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.ApplicationServices.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.DynamicData.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Entity.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Extensions.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Helpers.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Mvc.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Razor.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Services.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Xml.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Xml.Linq.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\WebActivatorEx.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\HtmlAgilityPack.pdb
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\HtmlAgilityPack.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.Web.Common.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\Ninject.Web.Mvc.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Razor.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Helpers.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\bin\System.Web.Mvc.xml
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\obj\Debug\Aliseeks.csprojResolveAssemblyReference.cache
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\obj\Debug\Aliseeks.dll
+C:\Users\Alex Bello\Documents\GitHub\Aliseeks\Aliseeks\obj\Debug\Aliseeks.pdb
